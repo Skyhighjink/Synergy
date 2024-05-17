@@ -1,0 +1,6 @@
+@Synergy.ApiGateway_HostAddress = http://localhost:5010
+
+GET {{Synergy.ApiGateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
